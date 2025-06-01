@@ -1,0 +1,1 @@
+Modelo inicial, incluye one hot encoding y una capa oculta
